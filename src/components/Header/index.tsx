@@ -27,7 +27,7 @@ function Header() {
  return (
   <Box style={headerStyle.body.container}>
     <Typography style={headerStyle.title.text}>
-      Rererência Rápida Lenda de Ghanor
+      Referência Rápida Lenda de Ghanor
     </Typography>
     <Typography style={headerStyle.body.text}>
       Este guia apresenta, de maneira resumida e intuitiva, regras básicas de Lenda de Ghanor para consulta rápida por jogadores e mestres. As referências das páginas em cada descrição referem-se ao A Lenda de Ghanor RPG, Livro Básico.

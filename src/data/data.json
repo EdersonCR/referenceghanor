@@ -110,7 +110,7 @@
                 },
                 {
                   "title": "Equilíbrio",
-                  "description": "Se estiver andando por superfícies precárias, você precisa fazer testes de Acrobacia para não cair. Cada ação de movimento exige um teste. Se passar, você avança metade do seu deslocamento. Se falhar, não avança. Se falhar por 5 ou mais, cai. A CD é 10 para piso escorregadio, 15 para uma superfície estreita (como o topo de um muro) e 20 para uma superfície muito estreita (como uma corda esticada). Você pode sofrer -5 no teste para avançar seu deslocamento total. Quando está se equilibrando você fica desprevenido e, se sofrer dano, deve fazer um novo teste de Acrobacia; se falhar, cai."
+                  "description": "Se estiver andando por superfícies precárias, você precisa fazer testes de Acrobacia para não cair. Cada ação de movimento exige um teste. Se passar, você avança metade do seu deslocamento. Se falhar, não avança. Se falhar por 5 ou mais, cai. A CD é 10 para piso escorregadio, 15 para uma superfície estreita (como o topo de um muro) e 20 para uma superfície muito estreita (como uma corda esticada). Você pode sofrer –5 no teste para avançar seu deslocamento total. Quando está se equilibrando você fica desprevenido e, se sofrer dano, deve fazer um novo teste de Acrobacia; se falhar, cai."
                 },
                 {
                   "title": "Escapar",
@@ -228,7 +228,7 @@
                 },
                 {
                   "title": "Galopar",
-                  "description": "Gaste uma ação completa e faça um teste de Cavalgar. Você avança um número de quadrados de 1,5m igual ao resultado do teste. Seu teste sofre um modificador de +/-2 para cada 1,5m de deslocamento acima ou abaixo de 9m que você possua."
+                  "description": "Gaste uma ação completa e faça um teste de Cavalgar. Você avança um número de quadrados de 1,5m igual ao resultado do teste. Seu teste sofre um modificador de +/–2 para cada 1,5m de deslocamento acima ou abaixo de 9m que você possua."
                 },
                 {
                   "title": "Montar Rapidamente (CD 20)",
@@ -2877,7 +2877,7 @@
           },
           {
             "id": 2,
-            "title": "Aria Movediça",
+            "title": "Areia Movediça",
             "description": "Engole objetos e criaturas",
             "img": "quicksand.svg",
             "details": {

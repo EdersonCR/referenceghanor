@@ -1012,7 +1012,7 @@
             "description": "Tarefas complexas",
             "img": "cubes.svg",
             "details": {
-              "description": "Em um teste estendido, o grupo deve acumular uma quantidade de sucessos antes de três falhas, o que indica uma falha total. Quanto mais complexa a tarefa, mais sucessos são exigidos. Testes estendidos podem envolver mais de uma perícia. ",
+              "description": "Em um teste estendido, o grupo deve acumular uma quantidade de sucessos antes de três falhas, o que indica uma falha total. Quanto mais complexa a tarefa, mais sucessos são exigidos. Testes estendidos podem envolver mais de uma perícia.",
               "uses": [
                 {
                   "description": "O mestre pode permitir que os jogadores decidam quais perícias vão usar em um teste estendido. Porém, cada teste avulso dentro do teste estendido precisa ser feito com uma perícia diferente."
@@ -1030,6 +1030,51 @@
               "reference": {
                 "source": "Lenda de Ghanor",
                 "page": "179"
+              }
+            }
+          },
+          {
+            "id": 9,
+            "title": "Penalidade de Armadura",
+            "description": "Dificulta perícias",
+            "img": "breastplate.svg",
+            "details": {
+              "description": "Por seu peso e rigidez, a maioria das armaduras dificulta o uso de perícias que demandem agilidade.",
+              "uses": [
+                {
+                  "description": "Aplique a penalidade de armadura em testes de Acrobacia, Furtividade e Ladinagem; e em testes de Atletismo para natação."
+                },
+                {
+                  "description": "Penalidades de armaduras e escudos se acumulam."
+                },
+                {
+                  "description": "Couro batido e Escudo leve (–1); Cota de anéis, Brunea, Cota de malha, Escudo pesado e Casaco longo (–2); Gibão de peles e Cota de talas (–3); Meia armadura e Escudo torre (–4); e Armadura completa (–5)."
+                }
+              ],
+              "reference": {
+                "source": "Lenda de Ghanor",
+                "page": "107 e 109"
+              }
+            }
+          },
+          {
+            "id": 10,
+            "title": "Não Proficiência",
+            "description": "Dificulta ataque e períficas",
+            "img": "battle-gear.svg",
+            "details": {
+              "description": "Proficiencia indica os tipos de armas e armaduras que você sabe usar.",
+              "uses": [
+                {
+                  "description": "Se você atacar com uma arma com a qual não seja proficiente, sofre –5 nos testes de ataque."
+                },
+                {
+                  "description": "Um personagem vestindo uma armadura ou escudo que não saiba usar aplica sua penalidade de armadura em todas as perícias baseadas em Força e Destreza. "
+                }
+              ],
+              "reference": {
+                "source": "Lenda de Ghanor",
+                "page": "98 e 107"
               }
             }
           }

@@ -16,7 +16,7 @@
             "details": {
               "description": "Seu poder muscular. A Força é aplicada em teste de Atletismo e Luta, e rolagens de dano corpo a corpo ou com armas de arremesso.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "15"
               }
             }
@@ -29,7 +29,7 @@
             "details": {
               "description": "Sua agilidade, reflexos, equilíbrio e coordenação. A Destreza é aplicada em Acrobacia, Cavalgar, Furtividade, Iniciativa, Ladinagem, Pilotagem, Pontaria e Reflexos e na Defesa.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "15"
               }
             }
@@ -42,7 +42,7 @@
             "details": {
               "description": "Sua saúde e vigor. A Constituição é aplicada em Fortitude e nos pontos de vida iniciais e por nível. Se a Constituição muda, seus pontos de vida aumentam e diminuem retroativamente de acordo.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "15"
               }
             }
@@ -55,7 +55,7 @@
             "details": {
               "description": "Sua capacidade de raciocínio, memória e educação em geral. A inteligência é aplicada em Conhecimento, Guerra, Investigação, Misticismo, Nobreza e Ofício. Além disso, você recebe um número de perícias treinadas adicionais igual à sua Inteligência`. Essas perícias não precisam ser da sua classe.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "15"
               }
             }
@@ -68,7 +68,7 @@
             "details": {
               "description": "Sua força de vontade e bom senso. A Sabedoria é aplicada a Cura, Intuição, Percepção, Religião, Sobrevivência e Vontade.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "15"
               }
             }
@@ -81,7 +81,7 @@
             "details": {
               "description": "Sua força de personalidade e capacidade de persuasão. O Carisma é aplicado em Adestramento, Atuação, Diplomacia, Enganação, Intimidação e Jogatina.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "15"
               }
             }
@@ -130,7 +130,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "76"
               }
             }
@@ -154,7 +154,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "77"
               }
             }
@@ -185,7 +185,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "77"
               }
             }
@@ -209,7 +209,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "77"
               }
             }
@@ -236,7 +236,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "78"
               }
             }
@@ -260,7 +260,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "78"
               }
             }
@@ -291,7 +291,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "78"
               }
             }
@@ -318,7 +318,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "78"
               }
             }
@@ -357,7 +357,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "79"
               }
             }
@@ -371,7 +371,7 @@
               "description": "Você usa esta perícia para resistir a efeitos que exigem vitalidade, como doenças e venenos. A CD é determinada pelo efeito. Você também usa Fortitude para manter seu fôlego quando está correndo ou sem respirar. A CD é 15 +1 por teste anterior. Teste de Constituição. Teste de Constituição.",
               "moreInfo": "Efeitos que afetam seus “testes de resistência” afetam os testes desta perícia.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "79"
               }
             }
@@ -395,7 +395,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "79"
               }
             }
@@ -419,7 +419,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "79"
               }
             }
@@ -432,7 +432,7 @@
             "details": {
               "description": "Esta perícia determina sua velocidade de reação em situações de perigo. Quando uma cena de ação começa, cada personagem envolvido faz um teste de Iniciativa. Eles então agem em ordem decrescente dos resultados. Teste de Destreza.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "80"
               }
             }
@@ -455,7 +455,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "80"
               }
             }
@@ -478,7 +478,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "80"
               }
             }
@@ -501,7 +501,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "81"
               }
             }
@@ -533,7 +533,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "81"
               }
             }
@@ -546,7 +546,7 @@
             "details": {
               "description": "Você usa Luta para fazer ataques corpo a corpo. A CD é a Defesa do alvo. Se você acertar, causa dano de acordo com a arma utilizada.  Teste de Força.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "81"
               }
             }
@@ -586,7 +586,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "81"
               }
             }
@@ -610,7 +610,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "82"
               }
             }
@@ -643,7 +643,7 @@
               ],
               "moreInfo": "Cada Ofício exige um instrumento de ofício específico. Sem ele, você sofre –5 no teste.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "82"
               }
             }
@@ -666,7 +666,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "82"
               }
             }
@@ -679,7 +679,7 @@
             "details": {
               "description": "Você usa Pontaria para fazer ataques à distância. A CD é a Defesa do alvo. Se você acertar, causa dano de acordo com a arma utilizada. Teste de Destreza.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "83"
               }
             }
@@ -693,7 +693,7 @@
               "description": "Você usa esta perícia para resistir a efeitos que exigem reação rápida, como armadilhas e explosões. A CD é determina pelo efeito. Você também usa Reflexos para evitar fintas. Teste de Destreza.",
               "moreInfo": "Efeitos que afetam seus “testes de resistência” afetam os testes desta perícia.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "82"
               }
             }
@@ -725,7 +725,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "83"
               }
             }
@@ -756,7 +756,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "83"
               }
             }
@@ -770,7 +770,7 @@
               "description": "Você usa esta perícia para resistir a efeitos que exigem determinação, como intimidação e encantamentos. A CD é determina pelo efeito. Testes de Vontade são testes de resistência. Teste de Sabedoria.",
               "moreInfo": "Efeitos que afetam seus “testes de resistência” afetam os testes desta perícia.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "83"
               }
             }
@@ -817,7 +817,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "178"
               }
             }
@@ -845,7 +845,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "178"
               }
             }
@@ -893,7 +893,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "132 e 184"
               }
             }
@@ -937,7 +937,7 @@
               ],
               "moreInfo": "*Caso um personagem tente uma tarefa fácil, o mestre pode considerar que ele passa automaticamente.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "178"
               }
             }
@@ -950,7 +950,7 @@
             "details": {
               "description": "Testes opostos são usados quando dois ou mais personagens estão competindo entre si. Cada personagem envolvido faz seu teste. Aquele com maior valor é o vencedor. Em caso de empate, aquele com o maior bônus vence. Se os bônus forem iguais, outra rolagem deve ser feita.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "178"
               }
             }
@@ -974,7 +974,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "179"
               }
             }
@@ -1001,7 +1001,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "179"
               }
             }
@@ -1028,7 +1028,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "179"
               }
             }
@@ -1052,7 +1052,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "107 e 109"
               }
             }
@@ -1073,7 +1073,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "98 e 107"
               }
             }
@@ -1104,7 +1104,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "190"
               }
             }
@@ -1122,7 +1122,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "191"
               }
             }
@@ -1140,7 +1140,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "191"
               }
             }
@@ -1158,7 +1158,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "192"
               }
             }
@@ -1180,7 +1180,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "181 e 190"
               }
             }
@@ -1198,7 +1198,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "195 e 220"
               }
             }
@@ -1221,7 +1221,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "194"
               }
             }
@@ -1244,7 +1244,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "194"
               }
             }
@@ -1265,7 +1265,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "195"
               }
             }
@@ -1304,7 +1304,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "183"
               }
             }
@@ -1331,7 +1331,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "194"
               }
             }
@@ -1358,7 +1358,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "192"
               }
             }
@@ -1400,7 +1400,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "187 e 190"
               }
             }
@@ -1424,7 +1424,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "187 e 190"
               }
             }
@@ -1448,7 +1448,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "190"
               }
             }
@@ -1469,7 +1469,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "190"
               }
             }
@@ -1516,7 +1516,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "130 e 190"
               }
             }
@@ -1543,7 +1543,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "191"
               }
             }
@@ -1570,7 +1570,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "190"
               }
             }
@@ -1601,7 +1601,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "0"
               }
             }
@@ -1625,7 +1625,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "277"
               }
             }
@@ -1668,7 +1668,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "191"
               }
             }
@@ -1692,7 +1692,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "186 e 191"
               }
             }
@@ -1713,7 +1713,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "191"
               }
             }
@@ -1737,7 +1737,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "191"
               }
             }
@@ -1762,7 +1762,7 @@
               ],
               "moreInfo": "Para objetos soltos, faça um ataque contra a Defesa do objeto, definida por sua categoria de tamanho. Se o objeto estiver em movimento, recebe +5 na Defesa.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "191 e 195"
               }
             }
@@ -1793,7 +1793,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "191"
               }
             }
@@ -1820,7 +1820,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "191"
               }
             }
@@ -1838,7 +1838,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "191"
               }
             }
@@ -1876,7 +1876,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "191 e 194"
               }
             }
@@ -1897,7 +1897,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "97, 98 e 191"
               }
             }
@@ -1921,7 +1921,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "97 e 107"
               }
             }
@@ -1947,7 +1947,7 @@
             "details": {
               "description": "Você corre mais rapidamente que seu deslocamento normal. Consulte a perícia Atletismo.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "191"
               }
             }
@@ -1968,7 +1968,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "191"
               }
             }
@@ -1992,7 +1992,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "192"
               }
             }
@@ -2006,7 +2006,7 @@
               "description": "Ao lançar magias com execução maior do que uma ação completa, você gasta uma ação completa a cada rodada.",
               "moreInfo": "Consulte a ação padrão Lançar Magia.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "192"
               }
             }
@@ -2045,7 +2045,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "192"
               }
             }
@@ -2058,7 +2058,7 @@
             "details": {
               "description": "Em geral, falar é uma ação livre. Lançar magias ou usar habilidades de classe que dependem da voz não são ações livres. O mestre também pode limitar aquilo que você consegue falar durante uma rodada (vinte palavras são o limite padrão).",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "192"
               }
             }
@@ -2071,7 +2071,7 @@
             "details": {
               "description": "Jogar-se no chão é uma ação livre. Você recebe os benefícios e penalidades normais por estar caído, mas normalmente não sofre dano ao se jogar no chão.",
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "192"
               }
             }
@@ -2092,7 +2092,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "192"
               }
             }
@@ -2126,7 +2126,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "328"
               }
             }
@@ -2153,7 +2153,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "328"
               }
             }
@@ -2171,7 +2171,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "328"
               }
             }
@@ -2192,7 +2192,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "328"
               }
             }
@@ -2213,7 +2213,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "328"
               }
             }
@@ -2240,7 +2240,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "382"
               }
             }
@@ -2270,7 +2270,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "328"
               }
             }
@@ -2304,7 +2304,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "328"
               }
             }
@@ -2325,7 +2325,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "328"
               }
             }
@@ -2346,7 +2346,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "328"
               }
             }
@@ -2373,7 +2373,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "318 e 394"
               }
             }
@@ -2397,7 +2397,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "328"
               }
             }
@@ -2421,7 +2421,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "328"
               }
             }
@@ -2442,7 +2442,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "328"
               }
             }
@@ -2463,7 +2463,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "328"
               }
             }
@@ -2484,7 +2484,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "328"
               }
             }
@@ -2502,7 +2502,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "328"
               }
             }
@@ -2523,7 +2523,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "328"
               }
             }
@@ -2550,7 +2550,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "328"
               }
             }
@@ -2571,7 +2571,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "329"
               }
             }
@@ -2592,7 +2592,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "329"
               }
             }
@@ -2613,7 +2613,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "329"
               }
             }
@@ -2631,7 +2631,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "329"
               }
             }
@@ -2655,7 +2655,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "329"
               }
             }
@@ -2679,7 +2679,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "329"
               }
             }
@@ -2700,7 +2700,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "329"
               }
             }
@@ -2718,7 +2718,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "329"
               }
             }
@@ -2739,7 +2739,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "329"
               }
             }
@@ -2757,7 +2757,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "329"
               }
             }
@@ -2778,7 +2778,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "329"
               }
             }
@@ -2796,7 +2796,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "329"
               }
             }
@@ -2817,7 +2817,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "329"
               }
             }
@@ -2841,7 +2841,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "329"
               }
             }
@@ -2862,7 +2862,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "329"
               }
             }
@@ -2880,7 +2880,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "329"
               }
             }
@@ -2915,7 +2915,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "225"
               }
             }
@@ -2948,7 +2948,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "225"
               }
             }
@@ -2972,7 +2972,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "225"
               }
             }
@@ -3002,7 +3002,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "226"
               }
             }
@@ -3025,7 +3025,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "226"
               }
             }
@@ -3052,7 +3052,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "227"
               }
             }
@@ -3076,7 +3076,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "227"
               }
             }
@@ -3103,7 +3103,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "227"
               }
             }
@@ -3125,7 +3125,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "227"
               }
             }
@@ -3149,7 +3149,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "227"
               }
             }
@@ -3170,7 +3170,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "227"
               }
             }
@@ -3191,7 +3191,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "227"
               }
             }
@@ -3227,7 +3227,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "118"
               }
             }
@@ -3263,7 +3263,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "219"
               }
             }
@@ -3294,7 +3294,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "219"
               }
             }
@@ -3325,7 +3325,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "219"
               }
             }
@@ -3359,7 +3359,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "220"
               }
             }
@@ -3378,7 +3378,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "220"
               }
             }
@@ -3405,7 +3405,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "220"
               }
             }
@@ -3436,7 +3436,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "220"
               }
             }
@@ -3455,7 +3455,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "220"
               }
             }
@@ -3478,7 +3478,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "221 e 227"
               }
             }
@@ -3505,7 +3505,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "221"
               }
             }
@@ -3536,7 +3536,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "44"
               }
             }
@@ -3554,7 +3554,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "44"
               }
             }
@@ -3572,7 +3572,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "44"
               }
             }
@@ -3590,7 +3590,7 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "44"
               }
             }
@@ -3608,8 +3608,80 @@
                 }
               ],
               "reference": {
-                "source": "Lenda de Ghanor",
+                "source": "A Lenda de Ghanor RPG",
                 "page": "44"
+              }
+            }
+          },
+          {
+            "id": 6,
+            "title": "Santa Cyrilla",
+            "description": "Padroeira da Fartura",
+            "img": "swan.svg",
+            "details": {
+              "description": "Padroeira da fartura e festividades, Santa Cyrilla promove a felicidade e beleza e abomina seres horripilantes. Era uma druidisa devotada a ajudar camponeses — dizem que sua mera presença fazia a terra florescer. Especialmente em Zibrene e no sudoeste de Sammelen, grandes festejos são dados em sua honra.",
+              "uses": [
+                {
+                  "description": "Devotos de Santa Cyrilla não podem permitir que qualquer humanoide sofra de inanição em sua presença."
+                }
+              ],
+              "reference": {
+                "source": "Dragão Brasil - Edição Especial Ghanor",
+                "page": "20"
+              }
+            }
+          },
+          {
+            "id": 7,
+            "title": "Santa Lara",
+            "description": "Padroeira da Ordem do Cálice",
+            "img": "chalice.svg",
+            "details": {
+              "description": "Santa Lara era uma jovem cavaleira que, em meio a um ataque de demônios que dizimava sua vila, amparou uma cavaleira mortalmente ferida que tentava combater as criaturas. Segundo a lenda, sem água para dar à moribunda, chorou em um cálice e lhe deu de beber, e tomou sua frente enquanto a moribunda bebia. As lágrimas abençoadas de Lara, junto de seu sacrifício, deram forças à cavaleira para expulsar o mal. Santificada, Lara tornou-se padroeira da Ordem do Cálice, dedicada a destruir as trevas em seu nome.",
+              "uses": [
+                {
+                  "description": "Devotos de Santa Lara não podem ser derrotados por demônios (como um teste oposto para ver quem é mais forte), nem cederem às suas tentações."
+                }
+              ],
+              "reference": {
+                "source": "Dragão Brasil - Edição Especial Ghanor",
+                "page": "20"
+              }
+            }
+          },
+          {
+            "id": 8,
+            "title": "São N",
+            "description": "Santo das Proezas Impossíveis",
+            "img": "z.svg",
+            "details": {
+              "description": "Pouco se sabe sobre o Santo das Proezas Impossíveis. Seu nome deriva da letra que desenhava, com seu florete, nas vestes de seus inimigos. Em Zibrene, histórias o retratam como um justiceiro mascarado. Suas batalhas contra o vil Corsário de Sangue — outra figura folclórica — tornaram-se lendárias. Acredita-se que, ao longo das décadas, diferentes pessoas herdaram seu manto, alegando serem o próprio N.",
+              "uses": [
+                {
+                  "description": "Um devotos de São N não pode pode usar armaduras pesadas nem deixar um campo de batalha onde foi vitorioso sem um N entalhado. Além disso, deve sempre anunciar sua presença aos inimigos."
+                }
+              ],
+              "reference": {
+                "source": "Dragão Brasil - Edição Especial Ghanor",
+                "page": "21"
+              }
+            }
+          },
+          {
+            "id": 9,
+            "title": "São Ruff",
+            "description": "Santo dos Pés Descalços",
+            "img": "lion.svg",
+            "details": {
+              "description": "Garoto-Cabra. Santo dos Pés Descalços. Herdeiro do Leão. Forjador do Arcanium. Portador do Terremoto. Estes são apenas alguns dos muitos títulos associados ao lendário Rei Ruff Ghanor I, o herói que enfrentou dragões, demônios, anjos e pestes. Até mesmo desafiou os deuses, assumindo o papel de santo redentor de pecadores e mortais. Em vida, foi clérigo de São Arnaldo e sua doutrina é similar, mas representa um aspecto mais marcial.",
+              "uses": [
+                {
+                  "description": "Devotos de São Ruff não podem negar ajuda a pessoas inocentes e devem lutar em prol dos oprimidos contra injustiças, para tornar o mundo novamente verde e bom."
+                }
+              ],
+              "reference": {
+                "source": "Dragão Brasil - Edição Especial Ghanor",
+                "page": "21"
               }
             }
           }

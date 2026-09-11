@@ -1,4 +1,3 @@
-import React from 'react';
 import { Typography, Box } from '@mui/material';
 import { colors, fonts, spaces } from '../../styles/theme';
 

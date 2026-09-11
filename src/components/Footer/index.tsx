@@ -1,4 +1,3 @@
-import React from 'react';
 import { Typography, Grid } from '@mui/material';
 import { colors, fonts, spaces } from '../../styles/theme';
 import Github from '../Github';
@@ -41,7 +40,7 @@ function Footer() {
     <Grid container columns={{ xs: 3, sm: 6, md: 12, lg: 12, xl: 12 }} style={footerStyle.container}>
       <Grid size={{ md: 2, xs: 3 }}>
         <Typography style={footerStyle.primeryBody.text}>
-          Site desenvolvido por:<br/><Github name={links.developer.creator}/>
+          Site desenvolvido por:<br/><Github name={links.developer.creator} repo={links.repo.name}/>
         </Typography>
       </Grid>
       <Grid size={{ md: 3, xs: 3 }}>

@@ -1,4 +1,5 @@
-# Guia de Referência Rápida Lenda de Ghanor ![image](https://img.shields.io/badge/rpg-A_Lenda_de_Ghanor_RPG-blue?style=flat-square) ![Site ao vivo](https://img.shields.io/badge/site-referenceghanor.vercel.app-blue?style=flat-square)
+# Guia de Referência Rápida Lenda de Ghanor
+![image](https://img.shields.io/badge/rpg-A_Lenda_de_Ghanor_RPG-blue?style=flat-square) ![Site ao vivo](https://img.shields.io/badge/site-referenceghanor.vercel.app-blue?style=flat-square)
 
 Este projeto é um guia para mestres e jogadores de [A Lenda de Ghanor RPG](https://jamboeditora.com.br/produto/a-lenda-de-ghanor-rpg-livro-basico/) e tem o objetivo de apresentar de forma resumida e intuitiva regras básicas desse sistema de RPG — para consulta rápida no celular, no notebook ou na mesa, sem folhear o livro inteiro.
 

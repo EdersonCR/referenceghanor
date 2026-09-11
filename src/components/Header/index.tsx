@@ -1,4 +1,3 @@
-import React from 'react';
 import { Typography, Box } from '@mui/material';
 import { colors, fonts, spaces } from '../../styles/theme';
 
@@ -30,7 +29,7 @@ function Header() {
       Referência Rápida Lenda de Ghanor
     </Typography>
     <Typography style={headerStyle.body.text}>
-      Este guia apresenta, de maneira resumida e intuitiva, regras básicas de Lenda de Ghanor para consulta rápida por jogadores e mestres. As referências das páginas em cada descrição referem-se ao A Lenda de Ghanor RPG, Livro Básico.
+      Este guia reúne as regras básicas de A Lenda de Ghanor RPG em formato de consulta rápida e objetiva, para que jogadores e mestres relembrem o essencial durante a sessão.
     </Typography>
   </Box>
  ); 

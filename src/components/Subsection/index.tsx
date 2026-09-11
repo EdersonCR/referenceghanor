@@ -1,4 +1,3 @@
-import React from 'react';
 import { Typography, Stack, Box, Grid } from '@mui/material';
 import { SubsectionData } from '../../interfaces/Interfaces';
 import { fonts, spaces } from '../../styles/theme';
@@ -33,7 +32,7 @@ function Subsection(props: SubsectionProps ) {
       <Box>
         <Grid container columns={{ xs: 1, sm: 2, md: 3, lg: 4, xl: 5 }}>
           {props.subsection.items.map((item, index) => (
-              <Grid xs={1} key={index} item={true}>
+              <Grid size={1} key={index}>
                 <Item 
                   item={item} 
                   subsection={props.subsection.title}

@@ -3,7 +3,7 @@ import './index.css';
 
 export const theme = createTheme({
   typography: {
-    body: {
+    body1: {
       fontFamily: ['IowanOldStyleRoman', 'Times News Roman', 'serif'].join(','),
       fontSize: '1rem'
     }

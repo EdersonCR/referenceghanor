@@ -12,21 +12,27 @@ Inspirado em referências como o [D&D 5e Quick Reference](https://diogoan.github
 
 O site organiza o conteúdo em seções expansíveis, com ícones e descrições curtas. Toque em um item para ver os detalhes completos, incluindo referência de página no livro.
 
-| Seção | Conteúdo |
-| --- | --- |
-| **Atributos e Perícias** | Os seis atributos e todas as perícias, com seus usos comuns |
-| **Testes** | Regras para resolver testes e situações especiais |
-| **Combate** | Fluxo de combate, ataques, dano e mecânicas centrais |
-| **Ações** | Ações do personagem durante o turno |
-| **Condições** | Estados que afetam personagens durante o jogo |
-| **Perigos e Ambiente** | Situações e fatores ambientais que representam ameaça direta aos personagens |
-| **Santos** | Santoral de Ghanor e normas de devoção |
+
+| Seção                    | Conteúdo                                                                     |
+| ------------------------ | ---------------------------------------------------------------------------- |
+| **Atributos e Perícias** | Os seis atributos e todas as perícias, com seus usos comuns                  |
+| **Testes**               | Regras para resolver testes e situações especiais                            |
+| **Combate**              | Fluxo de combate, ataques, dano e mecânicas centrais                         |
+| **Ações**                | Ações do personagem durante o turno                                          |
+| **Condições**            | Estados que afetam personagens durante o jogo                                |
+| **Perigos e Ambiente**   | Situações e fatores ambientais que representam ameaça direta aos personagens |
+| **Santos**               | Santos de Ghanor e normas de devoção                                         |
+
+
+
 
 ## 🎯 Para quem é
 
 - **Jogadores** que querem relembrar uma perícia, condição ou ação sem interromper a mesa
 - **Mestres** que precisam de uma consulta rápida durante a sessão
 - **Mesas novas** que ainda estão se familiarizando com as regras básicas de Ghanor
+
+
 
 ## 💻 Tecnologias
 
@@ -79,6 +85,8 @@ Você também pode contribuir adicionando uma melhoria no próprio projeto:
 
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions).
 
+
+
 ## 📃 Licença
 
 Este projeto está sob a licença Open Game License. Veja o arquivo [LICENSE.md](./LICENSE.md) para mais detalhes.
@@ -89,9 +97,11 @@ Este projeto está sob a licença Open Game License. Veja o arquivo [LICENSE.md]
 - Inspirado no [site](https://diogoan.github.io/dnd5e-quickref) desenvolvido por [diogoan](https://github.com/diogoan);
 - Inspirado no [site](https://crobi.github.io/dnd5e-quickref/preview/quickref.html) desenvolvido por [crobi](https://github.com/crobi).
 
+
+
 ## ✒️ Autor
 
 Feito por **Éderson C. Rodrigues** 🏳️‍🌈
 
-&ensp;&ensp;&ensp;[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edersoncr)
-&ensp;&ensp;&ensp;[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EdersonCR)
+&ensp;&ensp;&ensp;![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+&ensp;&ensp;&ensp;![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
